@@ -43,7 +43,7 @@ const About = () => {
         <h2 className="text-2xl font-bold mb-4">Let's Connect</h2>
         <div className="flex gap-6">
           <a
-            href="https://github.com"
+            href="https://github.com/mo-gohary1"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -51,7 +51,7 @@ const About = () => {
             <Github size={32} />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/mohamed-elgohary-3452073a9/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -59,7 +59,7 @@ const About = () => {
             <Linkedin size={32} />
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/MO_gohary1"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -67,7 +67,7 @@ const About = () => {
             <Twitter size={32} />
           </a>
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/mohamef.hesham.5"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -75,7 +75,7 @@ const About = () => {
             <Facebook size={32} />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/mo_gohary1/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -83,7 +83,7 @@ const About = () => {
             <Instagram size={32} />
           </a>
           <a
-            href="https://wa.me/"
+            href="https://wa.me/201028290508"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-400 hover:text-green-500 transition-colors"
@@ -105,7 +105,7 @@ const About = () => {
             </svg>
           </a>
           <a
-            href="mailto:contact@example.com"
+            href="mailto:moelgohary2004@icloud.com"
             className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
           >
             <Mail size={32} />
